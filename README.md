@@ -3,7 +3,7 @@
 This project focuses on detecting circles underwater using a custom-trained YOLOv8 model. Data was collected using a GoPro camera mounted on an underwater robot, and the model was trained to achieve high accuracy for real-world underwater applications.
 
 Project Video:
-- [Include link to project video if available on YouTube or other platforms]
+- https://youtu.be/cpp63CjOiBM?si=FaTyARypzsXMDnh8
 
 Components and Tools:
 - Underwater Robot:
