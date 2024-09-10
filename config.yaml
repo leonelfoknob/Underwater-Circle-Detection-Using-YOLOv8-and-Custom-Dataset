@@ -1,0 +1,22 @@
+path : C:\Users\leone\Desktop\makinafleo_project\computer_vision\custom_dataset_yolo\dataset
+train : images/train
+val: images/val
+#classes
+
+names:
+  0: dog
+  1: person
+  2: cat
+  3: tv
+  4: car
+  5: meatballs
+  6: marinara sauce
+  7: tomato soup
+  8: chicken noodle soup
+  9: french onion soup
+  10: chicken breast
+  11: ribs
+  12: pulled pork
+  13: hamburger
+  14: cavity
+  15: circle_in_water
