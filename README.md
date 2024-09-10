@@ -36,3 +36,9 @@ After the training process, the resulting custom model can be found in the direc
 Real-World Applications:
 
 This model can be adapted for real-time use with underwater robots to detect circles or similar objects. The combination of the robot and the YOLOv8 model makes it versatile for tasks such as underwater inspections or object recognition.
+
+**** For more information feel free to contact us on our social media or on our webpage. ***
+
+- instagram : https://instagram.com/makin_afleo?igshid=MmIzYWVlNDQ5Yg==
+- youtube : https://www.youtube.com/channel/UC4JMOTgAy32O7BfJBDLREKQ
+- webpage : https://makinafleo.com/
