@@ -1,6 +1,10 @@
 # Underwater-Circle-Detection-Using-YOLOv8-and-Custom-Dataset
 
 This project focuses on detecting circles underwater using a custom-trained YOLOv8 model. Data was collected using a GoPro camera mounted on an underwater robot, and the model was trained to achieve high accuracy for real-world underwater applications.
+
+Project Video:
+- [Include link to project video if available on YouTube or other platforms]
+
 Components and Tools:
 - Underwater Robot:
 Purpose: The robot, equipped with a GoPro camera, was used to capture video footage underwater. This footage was essential for creating the custom dataset.
@@ -30,6 +34,3 @@ After the training process, the resulting custom model can be found in the direc
 Real-World Applications:
 
 This model can be adapted for real-time use with underwater robots to detect circles or similar objects. The combination of the robot and the YOLOv8 model makes it versatile for tasks such as underwater inspections or object recognition.
-
-Project Video:
-- [Include link to project video if available on YouTube or other platforms]
