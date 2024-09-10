@@ -17,6 +17,7 @@ Data Labeling: Roboflow was used to label the collected footage, identifying cir
 - YOLOv8 (yolovon.pt):
 Model Training: A custom YOLOv8 model was trained using the labeled dataset. The model was optimized to detect circles with high accuracy in underwater settings.
 Accuracy: The trained model achieved a remarkable accuracy of 98%, making it highly effective for underwater detection tasks.
+![val_batch2_labels](https://github.com/user-attachments/assets/df15028f-ca66-4c27-a6c4-6652c278cab2)
 
 Files and Configuration:
 - config.yaml:
