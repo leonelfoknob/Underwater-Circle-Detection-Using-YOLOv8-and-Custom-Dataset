@@ -8,7 +8,8 @@ Project Video:
 Components and Tools:
 - Underwater Robot:
 Purpose: The robot, equipped with a GoPro camera, was used to capture video footage underwater. This footage was essential for creating the custom dataset.
-![underwater_vehicule](https://github.com/user-attachments/assets/58fbd3b3-f43a-4f06-860f-e9e0155079d5)
+![underwater_vehicule](https://github.com/user-attachments/assets/4e58f583-86ec-4372-8324-4a99f4c473a6)
+
 - GoPro Camera:
 Data Collection: Used to capture high-quality underwater footage for the dataset, providing clear visuals for accurate labeling and training.
 - Roboflow:
