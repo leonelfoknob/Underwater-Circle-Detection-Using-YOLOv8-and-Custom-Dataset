@@ -14,7 +14,7 @@ Purpose: The robot, equipped with a GoPro camera, was used to capture video foot
 Data Collection: Used to capture high-quality underwater footage for the dataset, providing clear visuals for accurate labeling and training.
 - Roboflow:
 Data Labeling: Roboflow was used to label the collected footage, identifying circles in the underwater environment. This step was crucial for preparing the data to train the YOLOv8 model.
-- YOLOv8 (yolovon.pt):
+- YOLOv8 (yolov8n.pt):
 Model Training: A custom YOLOv8 model was trained using the labeled dataset. The model was optimized to detect circles with high accuracy in underwater settings.
 Accuracy: The trained model achieved a remarkable accuracy of 98%, making it highly effective for underwater detection tasks.
 ![val_batch2_labels](https://github.com/user-attachments/assets/df15028f-ca66-4c27-a6c4-6652c278cab2)
